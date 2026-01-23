@@ -237,6 +237,7 @@ A lista é separada em tópicos, e os itens de cada tópico estão dispostos em 
 - [IT JOBS PE](https://t.me/channelitjobspe)
 - [IT Jobs PE (Debates)](https://t.me/itjobspe)
 - [Vagas de TI](https://t.me/vagastibr)
+- [Vagas Tech Pro](https://t.me/vagastechpro)
 
 ## Diversos
 - [CCNA BRASIL](https://t.me/CCNABRASIL)
